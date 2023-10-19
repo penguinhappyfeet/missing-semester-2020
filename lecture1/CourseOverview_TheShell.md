@@ -1,3 +1,4 @@
+**Solutions for lecture 1 exercises [Course overview + the shell](https://missing.csail.mit.edu/2020/course-shell/)** 
 1. `echo $SHELL`
 2. `mkdir -p /tmp/missing`
 3. `man touch`
